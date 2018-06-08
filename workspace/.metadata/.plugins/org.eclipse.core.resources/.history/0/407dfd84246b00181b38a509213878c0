@@ -1,0 +1,5 @@
+package co.ceiba.domain;
+
+public class person {
+
+}

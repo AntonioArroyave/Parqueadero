@@ -1,0 +1,15 @@
+package co.ceiba.service;
+import org.junit.Assert;
+import org.junit.Before;
+
+public class NotifyPersonServiceTest {
+	private NotifyPersonService notifyPersonService;
+	private EmailService emailService;
+	
+	@Before
+	public void steup(){
+		emailService = new EmailService();
+		notifyPersonService = new NotifyPersonService(emailService);
+	}
+	
+}

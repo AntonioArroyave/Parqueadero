@@ -1,0 +1,5 @@
+package co.ceiba.service;
+
+public class EmailService {
+
+}

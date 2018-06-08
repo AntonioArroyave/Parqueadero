@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="co.ceiba.domain.person"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="co.ceiba.service.EmailService"/>
+<fullyQualifiedTypeName name="co.ceiba.service.NotifyPersonService"/>
+<fullyQualifiedTypeName name="co.ceiba.testdatabuilder.PersonTestDataBuilder"/>
+<fullyQualifiedTypeName name="co.ceiba.domain.Person"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.mockito.Mockito"/>
+</qualifiedTypeNameHistroy>
