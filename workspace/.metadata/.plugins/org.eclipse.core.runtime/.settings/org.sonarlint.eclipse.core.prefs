@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+servers/SonarCloud%2Fantonioarroyave-github/auth=true
+servers/SonarCloud%2Fantonioarroyave-github/notificationsEnabled=true
+servers/SonarCloud%2Fantonioarroyave-github/org=antonioarroyave-github
+servers/SonarCloud%2Fantonioarroyave-github/url=https\://sonarcloud.io
